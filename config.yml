@@ -1,0 +1,12 @@
+site:
+    title:            There Will Be Sound
+    description:
+    author_name:      Tony Cosentino
+    author_email:     therewillbesound@gmail.com
+    author_url:
+    url_absolute:     http://therewillbesound.com
+    disqus_shortname: therewillbesound
+
+engine:
+    themes:
+        - %dir%/vendor/carew/theme-bootstrap
